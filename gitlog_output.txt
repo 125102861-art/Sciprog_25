@@ -1,0 +1,7 @@
+* d6423b0 (HEAD -> main, origin/main) Updated all README.md files with instructions and notes
+* d1bfb4c Add practical9
+*   f723e52 Merge practical2–practical9 practical folders into main
+|\  
+| * dcfc513 (origin/practical2) Add practical2–practical9 folders and codes
+|/  
+* 5c32b83 Initial commit
