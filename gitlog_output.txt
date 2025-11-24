@@ -1,4 +1,5 @@
-* d6423b0 (HEAD -> main, origin/main) Updated all README.md files with instructions and notes
+* 65fd89b (HEAD -> main, origin/main) Add git status and log outputs for submission
+* d6423b0 Updated all README.md files with instructions and notes
 * d1bfb4c Add practical9
 *   f723e52 Merge practical2–practical9 practical folders into main
 |\  
